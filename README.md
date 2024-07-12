@@ -1,3 +1,3 @@
 # GitHub-Full-Course-In-One-Video
 
-Version = 1
+Version = 2
